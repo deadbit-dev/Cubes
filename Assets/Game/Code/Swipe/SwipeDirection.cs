@@ -1,0 +1,10 @@
+﻿namespace JoyTeam.Game
+{
+    public enum SwipeDirection
+    {
+        Up,
+        Down,
+        Left,
+        Right
+    }
+}
